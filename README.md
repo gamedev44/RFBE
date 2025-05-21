@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/github/downloads/gamedev44/RFBE/total?style=flat-square)]  
 [![Blender 3.0+](https://img.shields.io/badge/Blender-3.0%2B-informational?style=flat-square&logo=blender)]  
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-informational?style=flat-square&logo=python)]  
-[![License](https://img.shields.io/github/license/gamedev44/RFBE?style=flat-square)]  
+[![License](https://img.shields.io/github/license/gamedev44/RFBE?style=flat-square)](https://github.com/gamedev44/RFBE/blob/main/LICENSE)  
 [![Author Asterisk](https://img.shields.io/badge/Author-Asterisk-informational?style=flat-square)]  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat-square)](https://gist.github.com/gamedev44/04c21006def2d0ffe54ecc1b57aca2cd)
 
@@ -64,8 +64,9 @@ Check out our [Releases page](https://github.com/gamedev44/RFBE/releases) for
 ---
 
 ## 🔒 License & Protection
-This add-on is released under the **MIT License**.  
-**⚠️ Unauthorized copying, renaming, or distribution is strictly prohibited** and will be enforced under license terms.
+This add-on is released under the **Apache License 2.0** (modified).  
+**⚠️ Unauthorized copying, renaming, or modification is strictly prohibited**.  
+See the full terms [here](https://github.com/gamedev44/RFBE/blob/main/LICENSE).
 
 ---
 
@@ -74,5 +75,3 @@ This add-on is released under the **MIT License**.
 - GitHub: [gamedev44](https://github.com/gamedev44)  
 - Resume: [View on Gist](https://gist.github.com/gamedev44/04c21006def2d0ffe54ecc1b57aca2cd)  
 - Please ⭐ the repo if you find this useful!
-
----
